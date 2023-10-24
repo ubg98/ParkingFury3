@@ -1,320 +1,264 @@
 {
     "decals": [
         {
-            "name": "razmetka.png",
-            "x": 167.35,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 431.3,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 698.3,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 952.3,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1232.25,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1498.25,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1765.25,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2035.2,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2336.2,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2604.2,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2863.2,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 3126.2,
-            "y": 1659.4,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1239.3,
-            "y": 582.8,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 0
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1397.25,
-            "y": 582.8,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 0
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1717.15,
-            "y": 582.8,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 0
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1855.1,
-            "y": 582.8,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 0
-        },
-        {
-            "name": "razmetka.png",
-            "x": 742.55,
-            "y": 661.8,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 742.55,
-            "y": 783.75,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 742.55,
-            "y": 925.7,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 742.55,
-            "y": 1065.65,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 742.55,
-            "y": 1199.6,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2475.95,
-            "y": 661.8,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2475.95,
-            "y": 783.75,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2475.95,
-            "y": 925.7,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2475.95,
-            "y": 1065.65,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2475.95,
-            "y": 1199.6,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1979.25,
-            "y": 2165.2,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1979.25,
-            "y": 2305.15,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1979.25,
-            "y": 2449.1,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2840.95,
-            "y": 2165.2,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2840.95,
-            "y": 2305.15,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 2840.95,
-            "y": 2449.1,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1413.25,
-            "y": 2630.05,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 0
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1263.3,
-            "y": 2630.05,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 0
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1547.4,
-            "y": 2165.2,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 1547.4,
-            "y": 2305.15,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 441.8,
-            "y": 2165.2,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 441.8,
-            "y": 2305.15,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        },
-        {
-            "name": "razmetka.png",
-            "x": 441.8,
-            "y": 2449.1,
-            "scaleX": 1,
-            "scaleY": 1,
-            "rotation": 89.9947509765625
-        }
+		"name": "razmetka.png",
+		"x": 167.35,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 431.3,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1232.25,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1498.25,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1765.25,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2035.2,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2863.2,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 3126.2,
+		"y": 1659.4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 742.55,
+		"y": 1199.6,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2475.95,
+		"y": 1199.6,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2447.35,
+		"y": 1577.05,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2447.35,
+		"y": 1717,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2447.35,
+		"y": 1860.95,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2840.95,
+		"y": 2165.2,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2840.95,
+		"y": 2305.15,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2840.95,
+		"y": 2449.1,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1757.3,
+		"y": 2438,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1299.3,
+		"y": 2826.1,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0
+	},
+	{
+		"name": "razmetka.png",
+		"x": 441.8,
+		"y": 2165.2,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 441.8,
+		"y": 2305.15,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 441.8,
+		"y": 2449.1,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1301.2,
+		"y": 2446,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0
+	},
+	{
+		"name": "razmetka.png",
+		"x": 1761.3,
+		"y": 2762.05,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2447.35,
+		"y": 1989.15,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2447.35,
+		"y": 2129.1,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 2447.35,
+		"y": 2273.05,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 766.9,
+		"y": 1577.05,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 766.9,
+		"y": 1717,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 766.9,
+		"y": 1860.95,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 766.9,
+		"y": 1989.15,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 766.9,
+		"y": 2129.1,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	},
+	{
+		"name": "razmetka.png",
+		"x": 766.9,
+		"y": 2273.05,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 89.9947509765625
+	}
     ],
     "decals_additional": [
-	{
+        {
 		"name": "decal_07.png",
 		"x": 878.5,
 		"y": 2357.65,
@@ -339,17 +283,9 @@
 		"rotation": 0
 	},
 	{
-		"name": "decal_06.png",
-		"x": 1033.9,
-		"y": 638.55,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
 		"name": "decal_03.png",
-		"x": 2101.35,
-		"y": 1513.75,
+		"x": 2130.35,
+		"y": 1436.75,
 		"scaleX": 1,
 		"scaleY": 1,
 		"rotation": 0
@@ -427,30 +363,6 @@
 		"rotation": 0
 	},
 	{
-		"name": "decal_08.png",
-		"x": 1774.75,
-		"y": 578.25,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_08.png",
-		"x": 539.2,
-		"y": 698.25,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_09.png",
-		"x": 867.55,
-		"y": 666.6,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
 		"name": "decal_09.png",
 		"x": 1009.5,
 		"y": 2413.95,
@@ -467,60 +379,12 @@
 		"rotation": 0
 	},
 	{
-		"name": "decal_10.png",
-		"x": 1099.9,
-		"y": 672.05,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_07.png",
-		"x": 1442.75,
-		"y": 563.5,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_07.png",
-		"x": 1227.75,
-		"y": 897.45,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_04.png",
-		"x": 1589.75,
-		"y": 775.5,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
 		"name": "decal_04.png",
 		"x": 1286.7,
 		"y": 1188.15,
 		"scaleX": 1.0000152587890625,
 		"scaleY": 1.0000152587890625,
 		"rotation": -21.945663452148438
-	},
-	{
-		"name": "decal_03.png",
-		"x": 601,
-		"y": 510.5,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_07.png",
-		"x": 585.8,
-		"y": 861.45,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
 	},
 	{
 		"name": "decal_07.png",
@@ -548,8 +412,8 @@
 	},
 	{
 		"name": "decal_07.png",
-		"x": 2074.05,
-		"y": 2291.6,
+		"x": 2003.05,
+		"y": 2259.6,
 		"scaleX": 1,
 		"scaleY": 1,
 		"rotation": 0
@@ -572,19 +436,19 @@
 	},
 	{
 		"name": "decal_04.png",
-		"x": 2027,
-		"y": 747.15,
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0
-	},
-	{
-		"name": "decal_04.png",
 		"x": 772.85,
 		"y": 1420.05,
 		"scaleX": 1.0000152587890625,
 		"scaleY": 1.0000152587890625,
 		"rotation": -21.945663452148438
+	},
+	{
+		"name": "decal_07.png",
+		"x": 1535.45,
+		"y": 2009.7,
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0
 	}
-]
+    ]
 }
